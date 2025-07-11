@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Neto 👋
 
-<!--
-**aneto10/aneto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🏭 Coordenador de Operações em projetos DWDM com equipe de 19 pessoas
+- 💻 Identifico lacunas nos processos e desenvolvo soluções escaláveis em Python, PHP, Django, Angular e Docker
+- 🤖 Entusiasta no desenvolvimento de agentes de IA para automação de tarefas
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Skills
+| Linguagens               | Frameworks           | DevOps        | IA / Automação       |
+|--------------------------|----------------------|---------------|----------------------|
+| Python, PHP, JavaScript | Django, React, Angular | Docker, CI/CD | OpenAI API, RPA      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projetos em Destaque
+- [wsl2-disk-compact](https://github.com/aneto10/wsl2-disk-compact) – WSL2 Docker VHDX Compactador
+- [backup_database](https://github.com/aneto10/backup_database) – Script em Python para realizar backups de bancos de dados MariaDB
+- [WhisperTranscribe](https://github.com/aneto10/WhisperTranscribe) – Ferramenta Python para transcrição de áudio para texto
+
+## 📫 Contato
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alcides-neto-07a11821/)  
+- 📧 anetodev@gmail.com
