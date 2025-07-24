@@ -1,7 +1,7 @@
 # Olá, eu sou o Neto 👋
 
 ## Sobre mim
-- 🏭 Coordenador de Operações em projetos DWDM com equipe de 19 pessoas
+- 🏭 Coordenador de Operações em projetos DWDM com equipe de 13 pessoas
 - 💻 Identifico lacunas nos processos e desenvolvo soluções escaláveis em Python, PHP, Django, Angular e Docker
 - 🤖 Entusiasta no desenvolvimento de agentes de IA para automação de tarefas
 
